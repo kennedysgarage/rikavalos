@@ -18,7 +18,7 @@
     </div><!--/row-->
     <p>Dear Rik,</p>
     <p>My name is <a href="http://kennedysgarage.com/">Kennedy</a> and last year I purchased Sapo, a 2003 Volkswagen Eurovan Camper. I had the chance to travel around the United States, where I explored new places and met interesting people along the way. When I wasn't on the road, I listed <a href="https://www.outdoorsy.com/rv/100943">Sapo</a> on Outdoorsy as a way to make extra money. So far,  I have made $6,138.00. I love the opportunities that Outfoorsy provides.</p>
-    <p>At this period you might be asking yourself why would someone purchased your expired domain. Ahh, great question. I am a senior UX designer, Xoogler, and I am currently freelancing while working on my own projects. I am now looking to move back in-house at a startup. I love what Outdoorsy is doing, and I want to be apart of it.</p>
+    <p>At this period you might be asking yourself why would someone purchased your expired domain. Ahh, great question. I am a senior UX product designer who is currently freelancing. I am now looking to move back in-house at a startup. I love what Outdoorsy is doing, and I want to be apart of it.</p>
     <p>Sincerely,<br/>
     <img src="/assets/img/signature.svg" class="signature"/><br/>
     C.M. Kennedy</p><br/>
