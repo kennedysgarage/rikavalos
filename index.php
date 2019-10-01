@@ -38,11 +38,11 @@
     <span class="eyebrow">A note from</span>
     <h2 class="title">The Desk of Kennedy</h2>
     <div class="vid">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/Cm9WtKK7tf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/VRD2SV5-aPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div><!--/vid-->
     <div class="row">
        <div class="six columns">
-        <p>I am a senior UX designer, Xoogler, and is currently freelancing while working on his own <a href="https://fistatus.com/">fintech project</a>. Ano I am now looking to move back in-house at a startup. I am generally company and stage agnostic. I am looking for a company that cares strongly about its customers, brand, and visual identity.</p>
+        <p>I am a senior UX designer, Xoogler, and is currently freelancing while working on his own <a href="https://www.vanimal.co/">van project</a>. Ano I am now looking to move back in-house at a startup. I am generally company and stage agnostic. I am looking for a company that cares strongly about its customers, brand, and visual identity.</p>
       </div><!--/col-->
        <div class="six columns">
          <p>Most recently, I was full-time for 2.5 years at WeWork as a Design Director. I had the opportunity to manage a design team that worked on digital, physical, and industrial experiences where I collaborated closely with Adam Neumann and Tomer Sharon.</p>
