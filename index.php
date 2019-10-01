@@ -42,7 +42,7 @@
     </div><!--/vid-->
     <div class="row">
        <div class="six columns">
-        <p>I am a senior UX designer, Xoogler, and is currently freelancing while working on his own <a href="https://www.vanimal.co/">van project</a>. Ano I am now looking to move back in-house at a startup. I am generally company and stage agnostic. I am looking for a company that cares strongly about its customers, brand, and visual identity.</p>
+        <p>I am a senior UX designer, Xoogler, and I am currently freelancing while working on my own <a href="https://www.vanimal.co/">van side project</a>. I am now looking to move back in-house at a startup. I am generally company and stage agnostic. I am looking for a company that cares strongly about its customers, brand, and visual identity.</p>
       </div><!--/col-->
        <div class="six columns">
          <p>Most recently, I was full-time for 2.5 years at WeWork as a Design Director. I had the opportunity to manage a design team that worked on digital, physical, and industrial experiences where I collaborated closely with Adam Neumann and Tomer Sharon.</p>
@@ -69,7 +69,7 @@
        <div class="nine columns">
          <span class="eyebrow">Say hi</span>
          <h2 class="title">Let’s Chat</h2>
-         <p>I know I can add a lot of value to Outdoorsy. I am an experienced customer, lived and traveled in their van, and clearly has a passion for the industry.</p>
+         <p>I know I can add a lot of value to Outdoorsy. I am an experienced customer, traveled in a van, and clearly has a passion for the industry.</p>
          <p>Get in touch with me at <a href="mailto:kennedy@byfreeagency.com">kennedy@byfreeagency.com</a>.</p>
       </div><!--/col-->
     </div><!--/row-->
